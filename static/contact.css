@@ -1,0 +1,48 @@
+nav {
+  padding: 30px 537px 30px 536px;
+}
+li {
+  display: inline-block;
+}
+
+.list {
+  padding-left: 66px;
+}
+
+a {
+  font-size: 18px;
+  font-weight: 500;
+  color: black;
+  text-decoration: none;
+}
+
+.line {
+  height: 1px;
+  background-color: black;
+}
+section {
+  margin-top: 183px;
+  margin-bottom: 407px;
+}
+h1 {
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 60px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+address {
+  margin-top: 117px;
+  margin-left: 175px;
+}
+span {
+  font-size: 25px;
+  font-weight: 400;
+  line-height: 37.5px;
+  display: block;
+  padding-top: 28px;
+}
+span:nth-child(1) {
+  text-decoration: underline;
+}
